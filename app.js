@@ -4,7 +4,7 @@ const prompts = require('prompts');
 
 
 (() => start())();
-
+// test
 async function start() {
     var loopFlag = true;
     while (loopFlag) {
